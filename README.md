@@ -19,7 +19,6 @@ This app allows users to tap out beats using an interactive drum pad. You can us
 ---
 
 ## 🔧 Technologies Used:
-- **React** – Component-based UI
 - **JavaScript** – For managing functionality and sounds
 - **CSS** – Styling and layout for a clean look
 - **Sound Library** – Drum sounds triggered via JS
